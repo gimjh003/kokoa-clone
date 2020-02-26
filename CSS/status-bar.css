@@ -1,6 +1,6 @@
 .status-bar {
   position: fixed;
-  top: 7px;
+  top: 0;
   left: 0;
   background-color: white;
   width: 100%;
